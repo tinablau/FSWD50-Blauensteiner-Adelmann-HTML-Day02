@@ -1,0 +1,16 @@
+ div {border-style: groove;
+ 	border-width: 2px;
+ 	margin: 5px;
+ }
+ #third p { 
+    visibility: hidden
+}
+h1 { 
+    visibility: hidden
+}
+#fifth p { 
+    visibility: hidden
+}
+#sixth img { 
+    visibility: visible
+}
