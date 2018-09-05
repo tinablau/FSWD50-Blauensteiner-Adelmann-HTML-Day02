@@ -1,0 +1,13 @@
+table {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+div {
+	border-top-style: solid;
+	border-width: 2px;
+}
+td {
+	text-decoration: overline;
+	text-decoration: underline;
+}
