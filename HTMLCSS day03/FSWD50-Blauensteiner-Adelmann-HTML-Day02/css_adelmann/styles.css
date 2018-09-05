@@ -2,22 +2,8 @@ div {border-style: solid;
 	border-width: 2px;
 	margin: 5px;
 }
-#third > p {
-	color: white;
-} 
 
-h1 {
-	color: white;
-}
+#first p {
+font-size: 50px;
 
-#second > * {
-color: white;
-}
-
-* {
-	color: white;
-}
-
-img {
-	color: black;
 }
